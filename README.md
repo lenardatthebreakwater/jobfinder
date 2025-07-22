@@ -1,6 +1,6 @@
 # JobFinder
 
-A simple and fast job board built with Vite and Node.js.
+A simple and fast job board built with React, TailwindCSS, and Vite.
 
 ## 🚀 Getting Started
 
